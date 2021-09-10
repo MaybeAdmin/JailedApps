@@ -1,17 +1,18 @@
 {
   "apps": [
     {
-      "bundleIdentifier": "com.theghgh.jailed.uTube",
+      "bundleIdentifier": "com.theghgh.jailed.uyoutube",
       "developerName": "theghgh",
       "downloadURL": "https://github.com/theghgh/JailedApps/raw/main/com.google.ios.youtube%2Bcom.miro.uyou.ipa",
-      "localizedDescription": "Latest YouTube with latest uYou injected.",
-      "name": "uTube",
-      "size": 105000000,
-      "subtitle": "uTube",
+      "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
+      "localizedDescription": "uYoutube is stock Youtube with uYou injected for a stable experience.",
+      "name": "uYou+",
+      "screenshotURLs": [],
+      "size": 104000000,
+      "subtitle": "uYoutube",
       "tintColor": "FC2125",
       "version": "16.35.5",
-      "versionDate": "2021-09-10"
-  }],
-  "identifier": "com.theghgh.uTube",
-  "name": "uTube"
+      "versionDate": "2021-09-10",
+      "versionDescription": "Changelog:Release 1"
+    },
 }
