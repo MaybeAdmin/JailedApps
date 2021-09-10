@@ -3,7 +3,7 @@
     {
       "bundleIdentifier": "com.theghgh.jailed.uyoutube",
       "developerName": "theghgh",
-      "downloadURL": "https://github.com/theghgh/JailedApps/raw/main/com.google.ios.youtube%2Bcom.miro.uyou.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/theghgh/JailedApps/main/com.google.ios.youtube%2Bcom.miro.uyou.ipa",
       "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
       "localizedDescription": "uYoutube is stock Youtube with uYou injected for a stable experience.",
       "name": "uYou+",
