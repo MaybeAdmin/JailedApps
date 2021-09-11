@@ -2,18 +2,18 @@
   "apps": [
     {
       "bundleIdentifier": "com.theghgh.jailed.uyoutube",
-      "developerName": "MiRo92",
-      "downloadURL": "https://github.com/theghgh/JailedApps/raw/main/com.google.ios.youtube%2Bcom.miro.uyou.ipa",
-      "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
-      "localizedDescription": "Stock YouTube with uYou injected for a stable, ad-free experience.",
+      "developerName": "theghgh",
+      "downloadURL": "https://github.com/theghgh/JailedApps/raw/main/com.google.ios.youtube+com.miro.uyou+com.ps.youpip.ipa",
+      "iconURL": "https://github.com/theghgh/JailedApps/raw/main/com.google.ios.youtube-large.png",
+      "localizedDescription": "Stock YouTube with uYou, and YouPip injected for a stable, enhanced experience.",
       "name": "uYouTube",
       "screenshotURLs": [],
       "size": 140000000,
       "subtitle": "uYouTube",
       "tintColor": "FC2125",
       "version": "16.34.3",
-      "versionDate": "2021-09-01",
-      "versionDescription": "Changelog: First Release!"
+      "versionDate": "2021-09-11",
+      "versionDescription": "9/10/21 Changelog: First Release!\n9/11/21 Changelog: Added YouPip for native Pip support! Also changed app icon to Lotus Dark version."
     }],
   "identifier": "com.theghgh.jailed",
   "name": "Jailed Apps",
